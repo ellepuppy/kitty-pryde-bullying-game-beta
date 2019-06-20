@@ -44,7 +44,7 @@
 /* Begin PBXFileReference section */
 		E20E170E1A34DF1900820124 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E218D27C1A69F7DF00698833 /* IAPHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IAPHelper.m; sourceTree = "<group>"; };
-		E22EF4C51A33491200A74B9F /* kittyprydebullyingstory.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = kittyprydebullyingstory.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E22EF4C51A33491200A74B9F /* kitty pryde bullying story.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "kitty pryde bullying story.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E22EF4F61A33523800A74B9F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		E22EF4F81A33524600A74B9F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		E22EF4FA1A33524F00A74B9F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -119,7 +119,7 @@
 		E22EF4C61A33491200A74B9F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E22EF4C51A33491200A74B9F /* kittyprydebullyingstory.app */,
+				E22EF4C51A33491200A74B9F /* kitty pryde bullying story.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -127,9 +127,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E22EF4C41A33491200A74B9F /* kittyprydebullyingstory */ = {
+		E22EF4C41A33491200A74B9F /* kitty pryde bullying story */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E22EF4EC1A33491200A74B9F /* Build configuration list for PBXNativeTarget "kittyprydebullyingstory" */;
+			buildConfigurationList = E22EF4EC1A33491200A74B9F /* Build configuration list for PBXNativeTarget "kitty pryde bullying story" */;
 			buildPhases = (
 				E22EF4C11A33491200A74B9F /* Sources */,
 				E22EF4C21A33491200A74B9F /* Frameworks */,
@@ -140,9 +140,9 @@
 			);
 			dependencies = (
 			);
-			name = kittyprydebullyingstory;
-			productName = kittyprydebullyingstory;
-			productReference = E22EF4C51A33491200A74B9F /* kittyprydebullyingstory.app */;
+			name = "kitty pryde bullying story";
+			productName = "kitty pryde bullying story";
+			productReference = E22EF4C51A33491200A74B9F /* kitty pryde bullying story.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -160,7 +160,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E22EF4C01A33491100A74B9F /* Build configuration list for PBXProject "kittyprydebullyingstory" */;
+			buildConfigurationList = E22EF4C01A33491100A74B9F /* Build configuration list for PBXProject "kitty pryde bullying story" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -173,7 +173,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E22EF4C41A33491200A74B9F /* kittyprydebullyingstory */,
+				E22EF4C41A33491200A74B9F /* kitty pryde bullying story */,
 			);
 		};
 /* End PBXProject section */
@@ -341,7 +341,7 @@
 				);
 				PRESERVE_DEAD_CODE_INITS_AND_TERMS = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = com.domain.kittyprydebullyingstory;
-				PRODUCT_NAME = kittyprydebullyingstory;
+				PRODUCT_NAME = "kitty pryde bullying story";
 				SEPARATE_STRIP = NO;
 				STRIP_INSTALLED_PRODUCT = NO;
 				STRIP_STYLE = "non-global";
@@ -389,7 +389,7 @@
 				);
 				PRESERVE_DEAD_CODE_INITS_AND_TERMS = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = com.domain.kittyprydebullyingstory;
-				PRODUCT_NAME = kittyprydebullyingstory;
+				PRODUCT_NAME = "kitty pryde bullying story";
 				SEPARATE_STRIP = NO;
 				STRIP_INSTALLED_PRODUCT = YES;
 				STRIP_STYLE = "non-global";
@@ -400,7 +400,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E22EF4C01A33491100A74B9F /* Build configuration list for PBXProject "kittyprydebullyingstory" */ = {
+		E22EF4C01A33491100A74B9F /* Build configuration list for PBXProject "kitty pryde bullying story" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E22EF4EA1A33491200A74B9F /* Debug */,
@@ -409,7 +409,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E22EF4EC1A33491200A74B9F /* Build configuration list for PBXNativeTarget "kittyprydebullyingstory" */ = {
+		E22EF4EC1A33491200A74B9F /* Build configuration list for PBXNativeTarget "kitty pryde bullying story" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E22EF4ED1A33491200A74B9F /* Debug */,
